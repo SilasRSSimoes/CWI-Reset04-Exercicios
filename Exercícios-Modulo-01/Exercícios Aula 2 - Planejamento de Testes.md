@@ -1,9 +1,9 @@
-# CWI-Reset04-Exercícios-Level-01
+# CWI-Reset04-Exercícios-Módulo-01
 
 Projeto: CWI Reset 4ª edição. 
 
 
-# Exercícios Level 1 - Testes de Software.
+# Exercícios Módulo 1 - Testes de Software.
 ## Aula 02 - Planejamento de Testes.
 
 ### Exercício:
