@@ -1,9 +1,9 @@
-# CWI-Reset04-Exercícios-Level-02
+# CWI-Reset04-Exercícios-Modulo-02
 
 Projeto CWI Reset 4ª edição. 
 
 
-# Exercícios Level 2 - Niveis e Casos de Teste.
+# Exercícios Modulo 2 - Niveis e Casos de Teste.
 ## Aula 01 - Níveis, técnicas e tipos de teste
 
 ### Exercício:
