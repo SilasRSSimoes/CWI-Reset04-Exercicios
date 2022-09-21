@@ -1,5 +1,5 @@
-altura = 1.76
-peso = 71.00
+altura = 1.79
+peso = 83.00
 
 imc = peso / (altura * altura)
 
