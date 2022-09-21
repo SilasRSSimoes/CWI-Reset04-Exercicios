@@ -7,4 +7,4 @@ Projeto CWI Reset 4ª edição.
 ## Aula 08 - Estruturas de repetição
 
 ### Exercício:
-Os exercícios 08 foram feitos na linguagem de programação JavaScript, no editor de códio VSCode e estão anexados a pasta.
+Os exercícios da aula 08 foram feitos na linguagem de programação JavaScript, no editor de códio VSCode e estão anexados a pasta.
