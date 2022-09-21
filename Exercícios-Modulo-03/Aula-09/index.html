@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        section
+    </style>
+    <title>CWIRest04</title>
+</head>
+<body>
+    <h1>Exercícios Aula 09</h1>
+    <ol>
+        <li>Crie uma função chamada <strong>imprimir</strong> que recebe um argumento e simplesmente imprime ele na tela</li><br>
+        <li>Lembra dos exercícios que propusemos na Aula 05 - Variáveis? Com base neles, faça o seguinte:
+            <ul><br>
+                <li>Crie uma função para cada algoritmo proposto lá, exceto o número <strong>6</strong></li><br>
+                <li>Todas as funções devem retornar o valor final</li><br>
+                <li>Procure dar nomes que façam sentido às funções. Ex.: a função para o item <strong>4</strong> poderia se chamar <strong>mediaAritmetica</strong> ou <strong>calcularMediaAritmetica</strong></li><br>
+                <li>Procure utilizar comentários para documentar cada método</li><br>
+                <li>Na função da média aritmética, evite colocar todos os itens como argumentos do método, pois isso limitaria sua utilização a um número fixo de elementos. Tente implementar uma lógica para receber um array e calcular a média em cima dele, tornando a função mais reaproveitável em diferentes situações</li><br>
+            </ul>
+        </li>
+        <li>Com as funções criadas, execute todo código abaixo e verifique se os resultados são os esperados (o resultado esperado de cada função está no comentário ao lado da chamada):
+            <section>
+                    <br>
+                    cwi = "CWI" <br>
+                    reset = "Reset" <br>
+                    imprimir(mesmoNome(cwi, cwi))   // true <br>
+                    imprimir(mesmoNome(cwi, reset)) // false <br>
+                    <br>
+                    imprimir("---") <br>
+                    <br>
+                    imprimir(maiorDeIdade(30)) // true <br>
+                    imprimir(maiorDeIdade(18)) // true <br>
+                    imprimir(maiorDeIdade(5))  // false <br>
+                    <br>
+                    imprimir("---") <br>
+                    <br>
+                    imprimir(valorComJuros(100))   // 110 <br>
+                    imprimir(valorComJuros(984.5)) // 1082.95 <br>
+                    <br>
+                    imprimir("---")
+                    <br>
+                    imprimir(mediaAritmetica([1]))             // 1 <br>
+                    imprimir(mediaAritmetica([1, 4, 10]))      // 5 <br>
+                    imprimir(mediaAritmetica([1, 2, 3, 4, 5])) // 3 <br>
+                    <br>
+                    imprimir("---") <br>
+                    <br>
+                    imprimir(margemBruta(1000000, 500000))      // 50 <br>
+                    imprimir(margemBruta(528459.11, 632501.87)) // -19.68[...]
+            </section>
+        </li>
+    </ol>
+    
+</body>
+</html>
